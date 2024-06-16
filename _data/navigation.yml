@@ -7,7 +7,7 @@ main:
     url: /categories/
   - title: "Etiquetas"
     url: /tags/
-  - title: "Vídeos"
+#  - title: "Vídeos"
     url: /videos/
   - title: "Buscador"
     url: /buscador/
