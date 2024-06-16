@@ -14,7 +14,7 @@ tags:
 ---
 
 <p align="center">
-<img src="/assets/images/bienvenida/hellofriend.jpg" width="200">
+<img src="/assets/images/bienvenida/hellofriend.jpg" width="500">
 </p>
 
 ¡Bienvenidos a mi blog! Soy Franz Carvajal, también conocido como **MrBl4ck**. Actualmente, soy estudiante de Ingeniería de Sistemas en la Universidad Católica Boliviana y un apasionado de la tecnología, especialmente en los campos del hacking y la ciberseguridad. Mi objetivo es compartir con ustedes mi viaje y conocimientos en estos apasionantes campos.
