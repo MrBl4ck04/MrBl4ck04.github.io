@@ -2,7 +2,7 @@
 layout: single
 title: Bienvenidos
 excerpt: "Recientemente estuve en la h-c0n presentando la herramienta evilTrust. En este artículo, comento la utilidad de la herramienta para todos aquellos que la quieran probar. Gracias a los organizadores del evento por invitarme y a todos los presentes por la gran acogida."
-date: 2020-06-16
+date: 2024-06-16
 classes: wide
 header:
   teaser: /assets/images/bienvenida/hellofriend.jpg
@@ -24,4 +24,4 @@ Aquí encontrarán publicaciones sobre hacking, resoluciones de algunas máquina
 Gracias por visitar mi blog. ¡Estoy emocionado de comenzar este viaje con ustedes y espero que disfruten del contenido tanto como yo disfruto creándolo!
 
 Saludos,
-Franz Carvajal (MrBl4ck)
+MrBl4ck
