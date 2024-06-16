@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Bienvenidos!
+title: Bienvenidos
 excerpt: "Recientemente estuve en la h-c0n presentando la herramienta evilTrust. En este artículo, comento la utilidad de la herramienta para todos aquellos que la quieran probar. Gracias a los organizadores del evento por invitarme y a todos los presentes por la gran acogida."
 date: 2020-06-16
 classes: wide
