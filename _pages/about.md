@@ -8,7 +8,7 @@ date: 2024-06-16
 <br>
 
 <p align="center">
-<img src="../assets/images/about/avatar.png">
+<img src="../assets/images/about/avatar.png" width="200">
 </p>
 
 ¡Hola! Soy Franz Carvajal (aka **MrBl4ck**), estudiante de la carrera de **Ingeniería de Sistemas** de la Universidad Católica Boliviana. Apasionado por la tecnología y, sobre todo, por el campo del **hacking y la ciberseguridad**. Siempre en busca de nuevos desafíos.
