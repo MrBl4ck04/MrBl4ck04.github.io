@@ -36,4 +36,4 @@ date: 2024-06-16
 
 ## Contacto
 
-¿Quieres ponerte en contacto conmigo?, puedes hacerlo a través de la dirección de correo **franz.carvajal04@gmail.com** o a través de mis **redes sociales** que se encuentran en la sección **"Home"**.
+¿Quieres ponerte en contacto conmigo?, puedes hacerlo a través de la dirección de correo **[franz.carvajal04@gmail.com](franz.carvajal04@gmail.com)** o a través de mis **redes sociales** que se encuentran en la sección **"Home"**.
