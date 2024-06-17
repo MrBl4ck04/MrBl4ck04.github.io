@@ -34,6 +34,6 @@ date: 2024-06-16
 - Participación en el Congreso de ABEC (Asociación Boliviana de Educación Católica)
 - Participación en el X Encuentro de Líderes Estudiantiles - ELE realizado en el C.E.G.N.E. Santa Ana de Lima
 
-## Contaco
+## Contacto
 
 ¿Quieres ponerte en contacto conmigo?, puedes hacerlo a través de la dirección de correo **franz.carvajal04@gmail.com** o a través de mis **redes sociales** que se encuentran en la sección **"Home"**.
