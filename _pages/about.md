@@ -24,7 +24,7 @@ date: 2024-06-16
 - Ensamblaje de computadoras - Instituto Los Angeles
 - Security Operation Center (S.O.C) - Pentester77
 - Ethical Hacking Avanzado - Instituto ICEI
-- Creadores Digitales Junior, programación infromática - Elemental
+- Creadores Digitales Junior, programación informática - Elemental
 - Introducción a linux, sistemas operativos - Hack4u
 - Personalización de entorno en Linux - Hack4u
 - Introducción al hacking - Hack4u
